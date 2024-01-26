@@ -1,5 +1,8 @@
 # Solana Starter
 
+![image](https://github.com/BankkRoll/solana-starter/assets/106103625/af316bf3-344e-492d-8f2a-ba6e36cf4730)
+![image](https://github.com/BankkRoll/solana-starter/assets/106103625/c8183b62-f16c-43d7-bbca-d48c77c9228a)
+
 ## Description
 This Solana Starter is leveraging Next.js for server-side rendering, TypeScript for Tailwind CSS, and shadcn/ui components for the UI, & integrates `solana/wallet-adapter-react` and `solana/web3.js` for seamless blockchain transactions and data fetching, focusing primarily on fetching holder information from a given creator address.
 
