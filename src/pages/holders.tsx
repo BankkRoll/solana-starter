@@ -178,7 +178,7 @@ const Holders = () => {
           </Tabs>
         </div>
         <div className="flex flex-row justify-center items-center mx-auto gap-4">
-          <Button onClick={handleDownload}>
+          <Button disabled={!csvData} onClick={handleDownload}>
             Download {activeTab.toUpperCase()}
           </Button>
         </div>

@@ -6,9 +6,7 @@ export default async function handler(
 ) {
   if (req.method === "GET") {
     const apiKey = process.env.HELIOUS_API_KEY;
-
     const apiUrl = "https://mainnet.helius-rpc.com";
-
     const creatorAddress = req.query.creatorAddress as string;
 
     if (!creatorAddress) {

@@ -34,8 +34,8 @@ export default function Home() {
             <CardHeader>
               <CardTitle>Holders</CardTitle>
               <CardDescription>
-                View snapshot of all holders of a collection from a creator
-                address.
+                Generate a snapshot of all holders of a NFT collection from any
+                given creator address.
               </CardDescription>
             </CardHeader>
           </Card>
